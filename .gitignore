@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+
+# Сгенерированные видео (тяжёлые)
+output/
+*.mp4
+
+# Офлайн-кэш пакетов (тяжёлый)
+packages/
+
+# Шрифты (лицензия OFL, в репозиторий не кладём)
+fonts/*.ttf
+
+# Отладочный мусор
+debug_run.py
+font_test.png
+test_*.png
+
+# IDE
+.vscode/
